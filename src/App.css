@@ -1,0 +1,49 @@
+.App {
+  max-width: 80%;
+  margin:0 auto;
+}
+.Welcome {
+  text-align: center;
+}
+.email-chip {
+  margin:0 auto !important;
+}
+.LeftAddProduct {
+  max-width: 200px;
+  float: left;
+}
+.RightAddProduct {
+  float: right;
+  width:600px;
+  text-align: center;
+}
+
+.ImageBoxShirt img {
+  max-width: 250px;
+  max-height: 250px;
+  float: left;
+  padding:20px;
+}
+.ImageBoxPant img {
+  max-width: 250px;
+  max-height: 300px;
+  padding:20px;
+}
+.Collection {
+  margin-top:50px;
+  margin-right:50px;
+  max-width: 300px;
+  padding:10px;
+  float: left;
+  display: inline-block;
+   box-sizing: border-box;
+}
+
+.maxImageHeight {
+  max-width: 250px;
+  max-height: 300px; 
+}
+.maxImageWidth {
+  max-width: 250px;
+  max-height: 250px;
+}
